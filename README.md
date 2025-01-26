@@ -34,4 +34,4 @@ Two simple condition :
 * Ability to set the animated image loader before displaying the image
 * Ability to enter the exception list
   
-   ## More details : [Image Lazy Loading Plugin](https://community.mybb.com/thread-242717.html)
+## More details : [Image Lazy Loading Plugin](https://community.mybb.com/thread-242717.html)
